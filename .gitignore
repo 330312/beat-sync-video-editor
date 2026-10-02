@@ -1,0 +1,32 @@
+# User media and rendered outputs
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Project-specific generated data
+media-inventory*.json
+*beat*review*
+*.ass
+*.srt
+render_work*/
+output*/
+
+# Local and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.tmp
+*.log

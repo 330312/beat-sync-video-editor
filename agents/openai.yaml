@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡点视频剪辑师"
+  short_description: "根据素材与音乐制作歌词驱动、动作高潮精准卡拍的视频"
+  default_prompt: "请分析我提供的素材和音乐，先输出可审核的重拍表，再制作卡点视频。"
